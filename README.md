@@ -1,2 +1,3 @@
 # Calculator
-HesapMakinesi
+Calculator in Java with GUİ
+Double type Calculator
